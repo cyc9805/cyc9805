@@ -26,7 +26,7 @@ Hi My name is Yong Chan 👋 I'm currently studying for a bachelor's degree majo
 # Projects 
 |period|project title|
 |--------|---------------------------------|
-|2021.06~<br>2021.07|[구내식당 식수 인원 예측 AI 경진대회](https://dacon.io/competitions/official/235743/overview/description)|
+|2021.06~<br>2021.07|[구내식당 식수 인원 예측 AI 경진대회](https://cyc9805.github.io/data%20analysis/python/project/데이콘-경진대회-참여후기/)|
 |2021.08~<br>2022.10|[2021 서울특별시 빅데이터캠퍼스 공모전](https://cyc9805.github.io/data%20analysis/python/project/seoul-bigdata-contest/)|
 |2022.03~<br>2022.06|[공간분석을 통한 서울시 안심마을보안관 신규 순찰지역의 우선순위 도출](https://github.com/cyc9805/capstone-project)|
 |2022.06~<br>2022.08|[병원 영수증의 위조 여부 판별 모델 설계](https://github.com/cyc9805/fake_detection)|
