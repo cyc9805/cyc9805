@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hi My name is Yong Chan 👋 I am currently majoring B.S in Geoinformatics, University of Seoul. I am currently interested in 
+Hi My name is Yong Chan 👋 I'm currently studying for a bachelor's degree majoring in Geoinformatics at University of Seoul.
 
 # Language & Tools 
 <img src="https://img.shields.io/badge/Python-FFCA28?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/C&nbsp;Sharp-FFCA28?style=flat&logo=C&nbspSharp&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
@@ -18,7 +18,7 @@ Hi My name is Yong Chan 👋 I am currently majoring B.S in Geoinformatics, Univ
 |2022.06~<br>2022.08|병원 영수증의 위조 여부 판별 모델 설계|
 
 # Awards
-🥈2nd Place in AI x Bookathon Hackathon (2022)
+🥈2nd Place in AI x Bookathon Hackathon (2022)<br>
 🥉3rd Place in Capstone Project (2022)
 
 # Activities
@@ -31,7 +31,13 @@ Hi My name is Yong Chan 👋 I am currently majoring B.S in Geoinformatics, Univ
 - [Introduction to Machine Learning with Python](https://github.com/rickiepark/intro_ml_with_python_2nd_revised)
 - [데이터가 뛰어 노는 놀이터, 캐글](https://github.com/LDJWJ/kagglebook)
 - [파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview)
-- [OpenCV programming](
+- [파이썬으로 배우느 OpenCV 프로그래밍](http://www.yes24.com/Product/Goods/105655600)
+- [cs231n](https://cyc9805.github.io/categories/cs231n)
+- [cs236](https://cyc9805.github.io/categories/cs236)
+
+# Language
+- TOEIC Reading & Listening
+- 
 <!---
 cyc9805/cyc9805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
