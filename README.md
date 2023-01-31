@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate with anyone filled with passion! 
 - 📫 How to reach me: Visit my website  https://cyc9805.github.io
 
-<img src="https://img.shields.io/badge/My Capabilities-FFCA28?style=flat-square&logo=Python&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/My&nbsp;Capabilities-FFCA28?style=flat-square&logo=Python&logoColor=FFCA28"/>
 <!---
 cyc9805/cyc9805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
