@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&section=header&text=Welcome&nbsp;to&nbsp;Yong&nbsp;Chan's&nbsp;github&nbsp;👋&fontSize=50)
 
-- 👋 Hi, I’m yongchan
-- 👀 I’m interested in anything that involves programming.
-- 🌱 I’m currently learning data anlaysis, machine learning and computer vision.
-- 💞️ I’m looking to collaborate with anyone filled with passion! 
-- 📫 How to reach me: Visit my website  https://cyc9805.github.io
+# Introduction
+
+Hi My name is Yong Chan 👋 I am currently majoring B.S in Geoinformatics, University of Seoul. I am currently interested in 
 
 # Language & Tools 
 <img src="https://img.shields.io/badge/Python-FFCA28?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/C&nbsp;Sharp-FFCA28?style=flat&logo=C&nbspSharp&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
