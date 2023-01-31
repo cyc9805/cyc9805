@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome to Yong Chan's github 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome_to_Yong_Chan's_github_👋&fontSize=90)
 
 - 👋 Hi, I’m yongchan
 - 👀 I’m interested in anything that involves programming.
