@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&section=header&text=Welcome&nbsp;to&nbsp;Yong&nbsp;Chan's&nbsp;github&nbsp;👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Welcome&nbsp;to&nbsp;Yong&nbsp;Chan's&nbsp;github&nbsp;👋&fontSize=50)
 
 # Introduction
 
