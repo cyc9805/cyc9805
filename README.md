@@ -20,7 +20,7 @@ Hi My name is Yong Chan 👋 I'm currently studying for a bachelor's degree majo
 # Activities
 |period|activity name|
 |-----------|------------------------------|
-|2021.06~<br>2023.01|manager of [TAVE(4th Industrial Revolution Reserach Club)](https://m.blog.naver.com/PostList.naver?blogId=t-ave)|
+|2021.06~<br>2023.01|manager of [TAVE(4th Industrial Revolution Research Club)](https://m.blog.naver.com/PostList.naver?blogId=t-ave)|
 |2022.03~<br>ongoing|[Machine Intelligence Lab](https://sites.google.com/view/uos-milab/) Intern|
 
 # Projects 
