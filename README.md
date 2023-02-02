@@ -33,7 +33,7 @@ Hi My name is Yong Chan 👋 I'm currently studying for a bachelor's degree majo
 |2022.08~<br>2022.09|[청경채 성장 예측 AI 경진대회](https://dacon.io/competitions/official/235961/overview/description)|
 
 # Awards
-🥈2nd Place in AI x Bookathon Hackathon (2022)<br>
+🥈2nd Place in [AI x Bookathon Hackathon](https://github.com/cyc9805/AIxBookathon) (2022)<br>
 🥉3rd Place in Capstone Project (2022)
 
 # Language
