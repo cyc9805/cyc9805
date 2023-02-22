@@ -9,7 +9,7 @@ Hi My name is Yong Chan 👋 I'm currently studying for a bachelor's degree majo
 <br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
 
-# Studies
+# Extracurricular Studies
 - [Introduction to Machine Learning with Python](https://github.com/rickiepark/intro_ml_with_python_2nd_revised)
 - [데이터가 뛰어 노는 놀이터, 캐글](https://github.com/LDJWJ/kagglebook)
 - [파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview)
