@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hi My name is Yong Chan 👋 I currently earned bachelor's degree majoring in Geoinformatics at University of Seoul. Check out [my blog](https://cyc9805.github.io/) to keep track of my activities
+Hi My name is Yong Chan 👋 I recently earned bachelor's degree majoring in Geoinformatics at University of Seoul. Check out [my blog](https://cyc9805.github.io/) to keep track of my activities
 
 # Language & Tools 
 <img src="https://img.shields.io/badge/Python-FFCA28?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/C&nbsp;Sharp-FFCA28?style=flat&logo=C&nbspSharp&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
