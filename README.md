@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Welcome&nbsp;to&nbsp;Yong&nbsp;Chan's&nbsp;github&nbsp;👋&fontSize=50)
-
 # Introduction
 
 Hi My name is Yong Chan 👋 I recently earned bachelor's degree majoring in Geoinformatics at University of Seoul. Check out [my blog](https://cyc9805.github.io/) to keep track of my activities
